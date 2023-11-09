@@ -1,5 +1,6 @@
 ### Hi there 👋
-![Uploading Grey Minimalist Photo Make Money Facebook Cover.png…]()
+![Cover Picture](https://github.com/ducthanh-nguyen/ducthanh-nguyen/assets/150335868/1856917b-6b82-41ac-a846-efa61181975b)
+
 
 
 <!--
