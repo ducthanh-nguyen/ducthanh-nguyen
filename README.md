@@ -1,11 +1,11 @@
 ### Introducing myself 👋
 ![Cover Picture](https://github.com/ducthanh-nguyen/ducthanh-nguyen/assets/150335868/1856917b-6b82-41ac-a846-efa61181975b)
 
-## Hello, I'm Duc Thanh (Edward). Undergraduate Commerce & IT student with passion in data analysis and reporting, query optimization, database design, and data modelling.
-## Querying data using SQL.
-## Generate reports and perform ad-hoc data analysis using SQL.
-## Developing dashboards on PowerBi
-## Data analysis and visualisation using Python and PowerBi
+Hello, I'm Duc Thanh (Edward). Undergraduate Commerce & IT student with passion in data analysis and reporting, query optimization, database design, and data modelling.
+- Querying data using SQL. <br>
+- Generate reports and perform ad-hoc data analysis using SQL. v
+- Developing dashboards on PowerBi <br>
+- Data analysis and visualisation using Python and PowerBi <br>
 
 
 
