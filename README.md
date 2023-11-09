@@ -7,6 +7,8 @@ Hello, I'm Duc Thanh (Edward). Undergraduate Commerce & IT student with passion 
 - Developing dashboards on PowerBi <br>
 - Data analysis and visualisation using Python and PowerBi <br>
 
+### 📚 Projects
+
 
 
 <!--
