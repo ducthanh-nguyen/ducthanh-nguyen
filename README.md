@@ -13,7 +13,7 @@ Welcome to my portfolio, where I showcase my projects.
 ### 🛠️ Tools & Frameworks
 - Language: SQL, Python, HTML, CSS, JavaScript, RapidMiner, R
 - Database: PostgreSQL, MySQL
-- Visualization: PowerBI
+- Visualization: PowerBi
 
 <!--
 **ducthanh-nguyen/ducthanh-nguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
