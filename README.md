@@ -11,9 +11,9 @@ Hello, I'm Duc Thanh (Edward). Undergraduate Commerce & IT student with passion 
 Welcome to my portfolio, where I showcase my projects.
 
 ### 🛠️ Tools & Frameworks
-- Language: SQL, Python, HTML, CSS, JavaScript, RapidMiner, R
+- Language: SQL, Python, R
 - Database: PostgreSQL, MySQL
-- Visualization: PowerBi
+- Visualization: PowerBi, Tableau
 
 <!--
 **ducthanh-nguyen/ducthanh-nguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
