@@ -1,17 +1,18 @@
 ### Introducing myself 👋
-![Cover Picture](https://github.com/ducthanh-nguyen/ducthanh-nguyen/assets/150335868/1856917b-6b82-41ac-a846-efa61181975b)
+![Cover Picture]()
 
-Hello, I'm Duc Thanh (Edward). Undergraduate Commerce & IT student with passion in data analysis and reporting, query optimization, database design, and data modelling.
+Hello, I'm Duc Thanh (Edward). Undergraduate Commerce & IT student with passion in data analysis, website development, query optimization, database design, and data modelling.
 - Querying data using SQL. <br>
 - Generate reports and perform ad-hoc data analysis using SQL. <br>
 - Developing dashboards on PowerBi <br>
 - Data analysis and visualisation using Python, R, PowerBi and RapidMiner <br>
+- Full stack development using PHP, JavaScript, HTML, CSS, React
 
 ### 📚 Projects
 Welcome to my portfolio, where I showcase my projects.
 
 ### 🛠️ Tools & Frameworks
-- Language: SQL, Python, R
+- Language: SQL, Python, R, HTML, CSS, JavaScript, PHP, C++, C#
 - Database: PostgreSQL, MySQL
 - Visualization: PowerBi, Tableau
 
