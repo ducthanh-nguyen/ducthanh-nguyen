@@ -1,5 +1,4 @@
 ### Introducing myself 👋
-<!![Cover Picture]()>
 
 Hello, I'm Duc Thanh (Edward). Undergraduate Commerce & IT student with passion in data analysis, website development, query optimization, database design, and data modelling.
 - Querying data using SQL. <br>
